@@ -1,6 +1,6 @@
  ### Hey!! Eu sou o Miguel Lima 🙂!
 
-- 📖 I’m currently learning HTML|CSS|JS!
+- 📖 I’m currently learning HTML | CSS | JS!
 
 
 <div>
