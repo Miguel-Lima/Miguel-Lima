@@ -1,4 +1,4 @@
- ### Hey!! Eu sou o Miguel Lima 🙂!
+ ### Hey!! Welcome 🙂!
 
 - 📖 I’m currently learning HTML | CSS | JS!
 
