@@ -7,7 +7,7 @@ Today I dedicate myself to this new universe full of possibilities and opportuni
 
 + ### University:
   - **Senac** : Analysis in systems development
-  - Focused on using the main technologies for systems development, building applications for computers, web or mobile devices, being able to offer integrated solutions and aligned to the needs of organizations. 
+  Focused on using the main technologies for systems development, building applications for computers, web or mobile devices, being able to offer integrated solutions and aligned to the needs of organizations. 
 
 - 📖 I’m currently learning HTML | CSS | JS!
 
