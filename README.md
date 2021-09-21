@@ -6,7 +6,7 @@ I haven't always been in this area. Graduated in higher education in Gastronomy 
 Today I dedicate myself to this new universe full of possibilities and opportunities.
 
 + ### University:
-  - **Senac** : Analysis in systems development
+  - **Senac** : Analysis in systems development.
   Focused on using the main technologies for systems development, building applications for computers, web or mobile devices, being able to offer integrated solutions and aligned to the needs of organizations. 
 
 - 📖 I’m currently learning HTML | CSS | JS!
