@@ -1,5 +1,5 @@
  ### Hey!! Welcome 🙂!
- ## 🎓: Academic 
+ ## 🎓 Academic 
    Passionate and falling more and more in love with Technology.
 
 I haven't always been in this area. Graduated in higher education in Gastronomy and currently graduating in Systems Development, I ended up discovering myself in a new totally different concept known as Programming.
