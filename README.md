@@ -5,8 +5,8 @@
 I haven't always been in this area. Graduated in higher education in Gastronomy and currently graduating in Systems Development, I ended up discovering myself in a new totally different concept known as Programming.
 Today I dedicate myself to this new universe full of possibilities and opportunities.
 
-+ ### University:
-   **Senac** : Analysis in systems development.</br>
+ ### University: </br>
+  + **Senac** : Analysis in systems development.</br>
   Focused on using the main technologies for systems development, building applications for computers, web or mobile devices, being able to offer integrated solutions and aligned to the needs of organizations. 
 
 - 📖 I’m currently learning HTML | CSS | JS!
