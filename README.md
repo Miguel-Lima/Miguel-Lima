@@ -3,7 +3,8 @@
   Focused and optimistic about the use of technology in our daily life.
 
 I haven't always been in this area. Graduated in higher education in Gastronomy and currently graduating in Systems Development, I ended up discovering myself in a new totally different concept known as Programming.
-Today I dedicate myself to this new universe full of possibilities and opportunities. ![oliveranime](https://user-images.githubusercontent.com/83568294/134269234-c69b0c50-300f-126b-8d67-23023a070f09.jpg)
+Today I dedicate myself to this new universe full of possibilities and opportunities. ![oliveranime](https://user-images.githubusercontent.com/83568294/134269278-f97f1ab0-8ba8-4ee9-b88e-d1cdf2d32f94.jpg)
+
 
 
  ### University: </br>
