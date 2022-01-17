@@ -5,7 +5,7 @@
 
 - 🔭 Graduated in higher education in Gastronomy and ongoing training in Systems Analysis and Development
 
-- :skull: :beers: Nas horas vagas gosto de ouvir aquele Rock acompanhado de uma boa cerveja
+- :skull: :beers: In my spare time I like to listen to that Rock accompanied by a good beer
 
 <br><br>
 
