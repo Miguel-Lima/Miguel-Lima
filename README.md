@@ -1,17 +1,35 @@
- ### Hey!! Welcome 🙂!
- ## 🎓 Academic 
-  Focused and optimistic about the use of technology in our daily life.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Lima (Oliver)</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
- Graduated in higher education in Gastronomy and currently graduating in Systems Development, I ended up discovering myself in a new totally different concept known as Programming.
-Today I dedicate myself to this new universe full of possibilities and opportunities.
+- 🔥 I am currently a software development student at Trybe
 
- ### University: </br>
-  + **Senac** : Analysis in systems development.</br>
-  Focused on using the main technologies for systems development, building applications for computers, web or mobile devices, being able to offer integrated solutions and aligned to the needs of organizations. 
+- 🔭 Graduated in higher education in Gastronomy and ongoing training in Systems Analysis and Development
 
-- 📖 I’m currently learning HTML | CSS | JS!
+- :skull: :beers: Nas horas vagas gosto de ouvir aquele Rock acompanhado de uma boa cerveja
 
- 
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+<br><br>
+
+## :alien: Social Links
+
+<a href="https://www.linkedin.com/in/adsmiguel/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/o.miguels/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
  <div>
   <a href="https://github.com/Miguel-Lima">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
