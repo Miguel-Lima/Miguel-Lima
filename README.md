@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Lima (Oliver)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 I am currently a software development student at Trybe
 
@@ -7,7 +6,7 @@
 
 - :skull: :beers: In my spare time I like to listen to that Rock accompanied by a good beer
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -17,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## :alien: Social Links
 
