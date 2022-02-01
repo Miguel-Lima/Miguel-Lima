@@ -6,7 +6,7 @@
 
 - In my spare time, when I'm not programming, I like to have a beer 🍺
 
-<br>
+---
 
 ## 🛠 &nbsp;Tech Stack
 ![javascript](https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white)
@@ -15,11 +15,6 @@
 ![github](https://img.shields.io/badge/Git-hub-6633cc?style=for-the-badge&logo=git-hub&logoColor=white)
 
 
-
-## :alien: Social Links
-<div>
- <a (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/adsmiguel/)>
- <br>
  
 ---
 
