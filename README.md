@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Lima (Oliver)</h1>
 
-- 🔥 I am currently a software development student at Trybe :green_heart:
+- I am currently a software development student at Trybe :green_heart:
 
-- 🔭 Graduated in higher education in Gastronomy and ongoing training in Systems Analysis and Development
+- Graduated in higher education in Gastronomy and ongoing training in Systems Analysis and Development :pencil2:
 
-- :skull: In my spare time I like to listen to that Rock accompanied by a good beer :beers:
+- In my spare time, when I'm not programming, I like to have a beer 🍺
 
 <br>
 
