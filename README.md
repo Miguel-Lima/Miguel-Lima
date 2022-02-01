@@ -12,8 +12,8 @@
 ![javascript](https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-6633cc?style=for-the-badge&logo=HTML&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-6633cc?style=for-the-badge&logo=CSS&logoColor=white)
-![git-hub](https://img.shields.io/badge/Git-hub-6633cc?style=for-the-badge&logo=git-hub&logoColor=white)
-![visual-studio-code](https://img.shields.io/badge/Visual-studio-code-6633cc?style=for-the-badge&logo=vistual-studio-code&logoColor=white)
+![github](https://img.shields.io/badge/Git-hub-6633cc?style=for-the-badge&logo=git-hub&logoColor=white)
+
 
 
 ## :alien: Social Links
