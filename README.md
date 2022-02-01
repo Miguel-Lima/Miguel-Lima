@@ -8,8 +8,8 @@
 
 ---
 
-## 🛠 &nbsp;Tech Stack
----
+### 🛠 &nbsp;Tech Stack
+
 ![javascript](https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white)
 ![html](https://img.shields.io/badge/Html-6633cc?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-6633cc?style=for-the-badge&logo=CSS3&logoColor=white)
