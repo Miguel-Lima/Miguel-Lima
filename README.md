@@ -26,7 +26,7 @@
  <br>
  <div>
   <a href="https://github.com/Miguel-Lima">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Lima&show_icons=true&theme=material-palenight &include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Lima&layout=compact&langs_count=7&theme=material-palenight "/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
 </div> 
 
