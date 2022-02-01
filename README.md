@@ -18,10 +18,7 @@
 
 ## :alien: Social Links
 <div>
- <a href="mailto:miguellimaoliver97@gmail.com" target="_blank"><img width="100em" height="34em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/adsmiguel/" target="_blank"><img width="100em" height="34em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
+ <a[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/adsmiguel/)>
  <br>
  
 ---
