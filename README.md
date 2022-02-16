@@ -12,7 +12,8 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Constantly developing technology stack
+
 
 ![javascript](https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white)
 ![html](https://img.shields.io/badge/Html-6633cc?style=for-the-badge&logo=HTML5&logoColor=white)
