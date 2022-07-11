@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Lima (Oliver)</h1>
+<h1 align="left">Hi, I'm Miguel Lima (Oliver)</h1>
 
 - I am currently a software development student at Trybe :green_heart:
 
@@ -19,6 +19,8 @@
 ![html](https://img.shields.io/badge/Html-6633cc?style=for-the-badge&logo=HTML5&logoColor=white)</br>
 ![css](https://img.shields.io/badge/CSS-6633cc?style=for-the-badge&logo=CSS3&logoColor=white)
 ![github](https://img.shields.io/badge/Git-6633cc?style=for-the-badge&logo=GITHUB&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-6633cc?style=for-the-badge&logo=DOCKER&logoColor=white)
+![sql](https://img.shields.io/badge/Sql-6633cc?style=for-the-badge&logo=SQL&logoColor=white)
 ![vscode](https://img.shields.io/badge/Vscode-6633cc?style=for-the-badge&logo=Visualstudiocode&logoColor=white)
 
 
