@@ -22,6 +22,7 @@
 ![docker](https://img.shields.io/badge/Docker-6633cc?style=for-the-badge&logo=DOCKER&logoColor=white)
 ![sql](https://img.shields.io/badge/Sql-6633cc?style=for-the-badge&logo=SQL&logoColor=white)
 ![vscode](https://img.shields.io/badge/Vscode-6633cc?style=for-the-badge&logo=Visualstudiocode&logoColor=white)
+![deploy](https://img.shields.io/badge/Deploy-6633cc?style=for-the-badge&logo=Deploy&logoColor=white)
 
 
  
