@@ -7,7 +7,7 @@
 - In my spare time, when I'm not programming, I like to have a beer 🍺
 
  [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Lima-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adsmiguel/)](https://www.linkedin.com/in/adsmiguel/)
-[![Gmail Badge](https://img.shields.io/badge/-miguellimaoliver97@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellimaoliver97@gmail.com)](mailto:miguellimaoliver97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-miguellimaoliver97@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellimaoliver97@gmail.com)](mailto:migueldeveloper97@gmail.com)
 
 
 ---
